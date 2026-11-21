@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://manideep-ai-ai.github.io/03-indian-genz/sitemap.xml
+Sitemap: https://manideepreddy.website/03-indian-genz/sitemap.xml
